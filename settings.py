@@ -270,9 +270,9 @@ EMPRESAS = [
     },
     {
         "company_name": "ROIJEN%20NACAR%20OFTALMOLOGIA%2C%20S.L",
-        "api_name": "Roijen Nacar Oftalmología, S.L ",
+        "api_name": "Roijen Nacar Oftalmología, S.L",
         "display_name": "ROIJEN NACAR OFTALMOLOGIA, S.L",
-        "sociedad": "Roijen Nacar Oftalmología, S.L ",
+        "sociedad": "Roijen Nacar Oftalmología, S.L",
         "company_id": "43af1950-84b5-f011-bbd1-7c1e5235d486"
     },
     {
@@ -302,5 +302,12 @@ EMPRESAS = [
         "display_name": "CLINICA OFTALMOLÓGICA PRIVADA",
         "sociedad": "CLINICA PRIVADA OFTALMOLÓGICA",
         "company_id": "e525a312-1790-f111-8074-7c1e5276275c"
+    },
+    {
+        "company_name": "V2%20FUSION%20MIRANZA%20OFTALMOLOGIA",
+        "api_name": "MIRANZA OFTALMOLOGIA SLU",
+        "display_name": "V2 FUSION MIRANZA OFTALMOLOGIA",
+        "sociedad": "MIRANZA OFTALMOLOGIA SLU",
+        "company_id": "a8e6c808-22ad-f111-aaa8-70a8a52b2f29",
     },
 ]
